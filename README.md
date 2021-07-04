@@ -64,7 +64,7 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
   </ul>
   
   
-## Photo for model 
+## Results
 <br>
  <img src="Results/model1.jpg" width="800" title="Model">
  <br><br>
