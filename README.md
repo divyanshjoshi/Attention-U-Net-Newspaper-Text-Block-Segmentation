@@ -1,6 +1,5 @@
 
-# Text-Block-Segmentation
-Segmenting text blocks from newspaper images using deep learning techinques
+# Multi Task Text Block and Baseline Segmentation
 
 ## Team Members
 <ul>
