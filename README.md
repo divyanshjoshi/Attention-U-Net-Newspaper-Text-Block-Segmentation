@@ -35,9 +35,8 @@
 4.You're all set!
   
  ## Results
-  The results after training the model 
+  Results after training the model 
   
-  <br>
   <img src="Results/results.JPG" width="900" title="Sample baseline slice">
   
   
