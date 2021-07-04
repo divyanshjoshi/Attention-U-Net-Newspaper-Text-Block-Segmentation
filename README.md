@@ -22,7 +22,7 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
 
 <br>
 
-  <li>Text Block Segmentation Notebook</li>
+  <li><h2>Text Block Segmentation Notebook</h2></li>
   <p>Detailed explaination for the notebook</p>
   
   
