@@ -7,7 +7,7 @@ Segmenting text blocks from newspaper images using deep learning techinques
   <li><a href="https://github.com/divyanshjoshi">Divyansh Joshi</a></li>
   <li><a href="https://github.com/devash76">Devashish Tripathi</a></li>
   <li><a href="https://github.com/arunps007">Arun Pratap Singh</a></li>
-  <li><a href="https://github.com/mprerana">Prerna Mukherjee</a></li>
+  <li><a href="https://github.com/mprerana">Prerana Mukherjee</a></li>
   <li><a href="#">Anukriti Bansal</a></li>
 </ul>
 
