@@ -11,14 +11,14 @@
 </ul>
 
 ## Introduction
-  Tensorflow code for the paper Multi-task Learning for Newspaper Image Segmentation and Baseline Detection Using Attention-Based U-Net Architecture. This repo contains the code to the multi task attention U-Net that we used for basline segmentation and textblock segmentation. The apart from the model, main.ipynb file contains the code for pre-processing,
+  Tensorflow code for the paper Multi-task Learning for Newspaper Image Segmentation and Baseline Detection Using Attention-Based U-Net Architecture. This repo contains the code to the multi task attention U-Net that we used for basline segmentation and textblock segmentation. The apart from the model, **main.ipynb** file contains the code for pre-processing,
   visualising attention maps and testing.
   </br>
   
 ## Model Pipeline
   
   <br>
-   <img src="Results/pipeline.JPG" width="800" title="Model Pipeline">
+   <img src="Results/pipeline.JPG" width="1000" title="Model Pipeline">
   <br>
   
 ## Installation 
@@ -38,7 +38,7 @@
   The results after training the model 
   
   <br>
-  <img src="Results/results.JPG" width="800" title="Sample baseline slice">
+  <img src="Results/results.JPG" width="1000" title="Sample baseline slice">
   
   
   
