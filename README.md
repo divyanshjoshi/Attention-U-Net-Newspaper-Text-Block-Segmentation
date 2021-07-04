@@ -34,10 +34,10 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
      <img src="Results/baseline-slice-sample.png" width="350" title="Model">
      <img src="Results/textblock-slice-sample.png" width="350" title="Model"><br>
   3. Defining metrics:<br>
-     3.1. Dice loss: Dice loss helps in determining the overlap between predicted and the actual mask. <br>
-     3.2. Recall <br>
-     3.2. Precision <br>
-     3.3. F Score <br>
+     &emsp;3.1. Dice loss: Dice loss helps in determining the overlap between predicted and the actual mask. <br>
+     &emsp;3.2. Recall <br>
+     &emsp;3.2. Precision <br>
+     &emsp;3.3. F Score <br>
   </ul>
   
   
