@@ -68,7 +68,7 @@ Segmenting text blocks from newspaper images using deep learning techinques
   </ul>
   
   ## Results
-  The results afte training the model 
+  The results after training the model 
   <br>
   <img src="Results/results.JPG" width="800" title="Sample baseline slice">
   
