@@ -2,6 +2,15 @@
 # Text-Block-Segmentation
 Segmenting text blocks from newspaper images using deep learning techinques
 
+## Team Members
+<ul>
+  <li><a href="https://github.com/divyanshjoshi">Divyansh Joshi</a></li>
+  <li><a href="https://github.com/devash76">Devashish Tripathi</a></li>
+  <li><a href="#">Arun Pratap Singh</a></li>
+  <li><a href="https://github.com/mprerna">Prerna Mukherjee</a></li>
+  <li><a href="#">Anukriti Bansal</a></li>
+</ul>
+
 <ul>
   <li> <h2> Introduction </h2> </li>
   Tensorflow code for the paper Multi-task Learning for Newspaper Image Segmentation and Baseline Detection Using Attention-Based U-Net Architecture. This repo contains the code to the multi task attention U-Net that we used for basline segmentation and textblock segmentation. The apart from the model, main.ipynb file contains the code for pre-processing,
