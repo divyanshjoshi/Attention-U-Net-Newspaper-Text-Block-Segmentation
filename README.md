@@ -29,8 +29,11 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
   <li><h4> Data Preprocessing: </h4> </li>
   1. All the images of the dataset are cut into slices of size 1024 x 1024.<br>
   2. Data generator to process in the U-Net <br>
-    input: dataset CSV file, paths to images/masks, train_length, shape of image<br>
-    output : X_train, Y1_train(Textblock), Y2_train(Baseline) numpy arrays of shape (train_length, height, width, _)<br>
+     input: dataset CSV file, paths to images/masks, train_length, shape of image<br>
+     output : X_train, Y1_train(Textblock), Y2_train(Baseline) numpy arrays of shape (train_length, height, width, _)<br>
+     <img src="Results/baseline-slice-model.png" width="350" title="Model">
+     <img src="Results/textblock-slice-model.png" width="350" title="Model">
+  3. 
   </ul>
   
   
