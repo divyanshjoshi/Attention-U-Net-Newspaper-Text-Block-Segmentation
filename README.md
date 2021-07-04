@@ -27,12 +27,14 @@ Segmenting text blocks from newspaper images using deep learning techinques
   ```
   git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-Segmentation.git
   ```
-2.Install requirements.txt file 
+2.Install requirements.txt file
   ```
   pip install -r requirements.txt
   ```
 3.Run the Multi-Task_Attention_U-Net_Slices.ipynb file
+<br>
 4.You're all set!
+
 
 <br>
 
