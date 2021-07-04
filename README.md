@@ -32,8 +32,12 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
      input: dataset CSV file, paths to images/masks, train_length, shape of image<br>
      output : X_train, Y1_train(Textblock), Y2_train(Baseline) numpy arrays of shape (train_length, height, width, _)<br>
      <img src="Results/baseline-slice-sample.png" width="350" title="Model">
-     <img src="Results/textblock-slice-sample.png" width="350" title="Model">
-  3. 
+     <img src="Results/textblock-slice-sample.png" width="350" title="Model"><br>
+  3. Defining metrics:<br>
+     3.1. Dice loss: Dice loss helps in determining the overlap between predicted and the actual mask. <br>
+     3.2. Recall <br>
+     3.2. Precision <br>
+     3.3. F Score <br>
   </ul>
   
   
