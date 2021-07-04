@@ -23,15 +23,20 @@ Segmenting text blocks from newspaper images using deep learning techinques
    <img src="Results/pipeline.JPG" width="800" title="Model Pipeline">
   <br>
   <li><h2> Installation </h2> </li>
-  1. Use python 2.7
-  2. Any version of tensorflow version > 2.0 should be ok.
-  3. Python packages: matplotlib (>=1.3.1), pillow (>=2.1.0), scipy (>=1.0.0), scikit-image (>=0.13.1), click (>=5.x)
-  4. Clone the Repo
+  <ol>
+  <li>Clone the repo
   ```
   git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-Segmentation.git
   ```
-  6. Done
-  
+  </li>
+  <li> Install requirements.txt file 
+  ```
+  pip install -r requirements.txt
+  ```
+  </li>
+  <li> Run the Multi-Task_Attention_U-Net_Slices.ipynb file </li>
+  <li> Done </li>
+  </ol>
 
 <br>
 
