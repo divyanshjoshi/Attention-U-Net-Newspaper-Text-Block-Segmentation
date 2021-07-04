@@ -48,7 +48,7 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
   <p>
   1.Generates attention maps for the attention block at some level in the U-Net. <br>
      &emsp;input: model, image, layer_no <br>
-     &emsp;output: attention map of the attebtion block at the corresponding layer.<br><br>
+     &emsp;output: attention map of the attebtion block at the corresponding layer.<br>
 
   2.Produces attention maps for every attention block in the U-Net <br>
      &emsp; input: model, image <br>
