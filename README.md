@@ -38,6 +38,15 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
      &emsp;3.2. Recall <br>
      &emsp;3.2. Precision <br>
      &emsp;3.3. F Score <br>
+  <li> <h4> Multi-Task Attenion U-net: </h4> <li>
+  
+  <li> <h4> Visualizing Attention maps: </h4> <li>
+  1. Generates attention maps for the attention block at some level in the U-Net.
+     &emsp;input: model, image, layer_no
+     &emsp;output: attention map of the attebtion block at the corresponding layer.
+  2.  Produces attention maps for every attention block in the U-Net
+     &emsp; input: model, image
+    &emsp;  output: plot of attention maps for the U-Net
   </ul>
   
   
