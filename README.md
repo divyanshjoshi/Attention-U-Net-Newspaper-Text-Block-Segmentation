@@ -16,5 +16,14 @@ Segmenting text blocks from newspaper images using deep learning techinques
   <p> installation steps to run the notebook </p>
   <li>Text Block Segmentation Notebook</li>
   <p>Detailed explaination for the notebook</p>
-  ### Photo for model 
+  
+  
+## Photo for model 
+<br>
+ <img src="Results/model1.jpg" width="800" title="Model">
+ <br><br>
+ <img src="Results/slices.JPG" width="800" title="Image Slices">
+ <br><br>
+ <img src="Results/results.JPG" width="800" title="Results">
+ <br><br>
 </ul>
