@@ -7,8 +7,9 @@ Segmenting text blocks from newspaper images using deep learning techinques
   visualising attention maps and testing.
   </br>
   ### Photo for model pipeline 
-   <img src="Results/pipeline.JPG" width="350" title="Model Pipeline">
-  
+  <br>
+   <img src="Results/pipeline.JPG" width="800" title="Model Pipeline">
+  <br>
   <li> Installation </li>
   <p> installation steps to run the notebook </p>
   <li>Text Block Segmentation Notebook</li>
