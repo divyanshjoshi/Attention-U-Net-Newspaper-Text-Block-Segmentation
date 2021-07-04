@@ -49,6 +49,13 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
      &emsp; input: model, image <br>
     &emsp;  output: plot of attention maps for the U-Net <br>
     </p>
+   <li> <h4> Testing: </h4> </li>
+  <p> 
+  1. Loads the test dataset. <br>
+  2. Loading the best saved weights for model testing.<br>
+  3. Generates predicted baseline and texblock mask for the given image slice.<br>
+  4. Evaluating the defined matrices. <br>
+  </p>
   </ul>
   
   
