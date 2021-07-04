@@ -13,7 +13,8 @@ Segmenting text blocks from newspaper images using deep learning techinques
    <img src="Results/pipeline.JPG" width="800" title="Model Pipeline">
   <br>
   <li> Installation </li>
-  <p> Clone the Repository: </p><br>
+  <br>
+  <h3> Clone the Repository: </h3><br>
   
 ```
 git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-Segmentation.git
