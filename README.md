@@ -39,6 +39,11 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
      &emsp;3.2. Precision <br>
      &emsp;3.3. F Score <br>
   <li> <h4> Multi-Task Attenion U-net: </h4> </li>
+  <p>
+    The multitask attention U-net for Basline detection and Text Block Segmentation<br>
+    input : img_shape (1024, 1024, 3) i.e, slice <br>
+    output: U-Net<br>
+  </p>
   <li> <h4> Visualizing Attention maps: </h4> </li>
   <p>
   1.Generates attention maps for the attention block at some level in the U-Net. <br>
