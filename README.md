@@ -18,7 +18,7 @@
 ## Model Pipeline
   
   <br>
-   <img src="Results/pipeline.JPG" width="1000" title="Model Pipeline">
+   <img src="Results/pipeline.JPG" width="900" title="Model Pipeline">
   <br>
   
 ## Installation 
@@ -38,7 +38,7 @@
   The results after training the model 
   
   <br>
-  <img src="Results/results.JPG" width="1000" title="Sample baseline slice">
+  <img src="Results/results.JPG" width="900" title="Sample baseline slice">
   
   
   
