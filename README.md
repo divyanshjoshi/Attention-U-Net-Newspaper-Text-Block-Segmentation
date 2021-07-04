@@ -24,7 +24,7 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
 
   <li><h2>Text Block Segmentation Notebook</h2></li>
   <ul>
-  <p> This Notebook is mainly divided into four parts : Data Proeprocssing, Multi-Task Attention U-Net, Visualizing Attention Maps, Testing. A brief description of each section is given below. </p><br>
+  <p> This Notebook is mainly divided into four parts : Data Preprocssing, Multi-Task Attention U-Net, Visualizing Attention Maps, Testing. A brief description of each section is given below. </p><br>
   
   <li><h4> Data Preprocessing: </h4> </li>
   1. All the images of the dataset are cut into slices of size 1024 x 1024.<br>
