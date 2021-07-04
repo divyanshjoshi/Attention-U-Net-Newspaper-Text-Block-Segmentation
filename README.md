@@ -23,7 +23,15 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
 <br>
 
   <li><h2>Text Block Segmentation Notebook</h2></li>
-  <p>Detailed explaination for the notebook</p>
+  <ul>
+  <p> This Notebook is mainly divided into four parts : Data Proeprocssing, Multi-Task Attention U-Net, Visualizing Attention Maps, Testing. A brief description of each section is given below. </p><br>
+  
+  <li><h4> Data Preprocessing: </h4> </li>
+  1. All the images of the dataset are cut into slices of size 1024 x 1024.<br>
+  2. Data generator to process in the U-Net <br>
+    input: dataset CSV file, paths to images/masks, train_length, shape of image<br>
+    output : X_train, Y1_train(Textblock), Y2_train(Baseline) numpy arrays of shape (train_length, height, width, _)<br>
+  </ul>
   
   
 ## Photo for model 
