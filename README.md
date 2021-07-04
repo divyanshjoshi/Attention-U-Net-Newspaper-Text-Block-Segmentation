@@ -32,11 +32,8 @@ Segmenting text blocks from newspaper images using deep learning techinques
   pip install -r requirements.txt
   ```
 3.Run the Multi-Task_Attention_U-Net_Slices.ipynb file
-<br>
+
 4.You're all set!
-
-
-<br>
 
   <li><h2>Text Block Segmentation Notebook</h2></li>
   <ul>
