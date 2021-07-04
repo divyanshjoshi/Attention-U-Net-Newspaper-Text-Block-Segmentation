@@ -29,9 +29,9 @@ git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-
   <li><h4> Data Preprocessing: </h4> </li>
   1. All the images of the dataset are cut into slices of size 1024 x 1024.<br>
   2. Data generator to process in the U-Net <br>
-     input: dataset CSV file, paths to images/masks, train_length, shape of image<br>
-     output : X_train, Y1_train(Textblock), Y2_train(Baseline) numpy arrays of shape (train_length, height, width, _)<br>
-     <img src="Results/baseline-slice-sample.png" width="350" title="Sample baseline slice">
+    &emsp; input: dataset CSV file, paths to images/masks, train_length, shape of image<br>
+   &emsp;  output : X_train, Y1_train(Textblock), Y2_train(Baseline) numpy arrays of shape (train_length, height, width, _)<br>
+    <img src="Results/baseline-slice-sample.png" width="350" title="Sample baseline slice">
      <img src="Results/textblock-slice-sample.png" width="350" title="Sample textblock slice"><br>
   3. Defining metrics:<br>
      &emsp;3.1. Dice loss: Dice loss helps in determining the overlap between predicted and the actual mask. <br>
