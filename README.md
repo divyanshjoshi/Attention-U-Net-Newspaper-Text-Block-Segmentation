@@ -49,11 +49,6 @@ Segmenting text blocks from newspaper images using deep learning techinques
    &emsp;  output : X_train, Y1_train(Textblock), Y2_train(Baseline) numpy arrays of shape (train_length, height, width, _)<br>
     <img src="Results/baseline-slice-sample.png" width="350" title="Sample baseline slice">
      <img src="Results/textblock-slice-sample.png" width="350" title="Sample textblock slice"><br>
-  3. Metrics:<br>
-     &emsp;3.1. Dice loss: Dice loss helps in determining the overlap between predicted and the actual mask. <br>
-     &emsp;3.2. Recall <br>
-     &emsp;3.2. Precision <br>
-     &emsp;3.3. F Score <br>
   <li> <h4> Multi-Task Attenion U-net: </h4> </li>
   <p>
     The multitask attention U-net for Basline detection and Text Block Segmentation<br>
