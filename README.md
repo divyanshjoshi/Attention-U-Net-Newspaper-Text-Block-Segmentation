@@ -14,10 +14,13 @@ Segmenting text blocks from newspaper images using deep learning techinques
   <br>
   <li> Installation </li>
   <p> Clone the Repository: </p><br>
+  
 ```
 git clone https://github.com/divyanshjoshi/Attention-U-Net-Newspaper-Text-Block-Segmentation.git
 ```
+
 <br>
+
   <li>Text Block Segmentation Notebook</li>
   <p>Detailed explaination for the notebook</p>
   
