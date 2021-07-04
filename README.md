@@ -31,8 +31,8 @@ Segmenting text blocks from newspaper images using deep learning techinques
   ```
   pip install -r requirements.txt
   ```
-3.Run the Multi-Task_Attention_U-Net_Slices.ipynb file </li>
-4. You're all set!
+3.Run the Multi-Task_Attention_U-Net_Slices.ipynb file
+4.You're all set!
 
 <br>
 
@@ -42,12 +42,12 @@ Segmenting text blocks from newspaper images using deep learning techinques
   
   <li><h4> Data Preprocessing: </h4> </li>
   1. All the images of the dataset are cut into slices of size 1024 x 1024.<br>
-  2. Data generator to process in the U-Net <br>
+  2. Data generator to process images in the U-Net <br>
     &emsp; input: dataset CSV file, paths to images/masks, train_length, shape of image<br>
    &emsp;  output : X_train, Y1_train(Textblock), Y2_train(Baseline) numpy arrays of shape (train_length, height, width, _)<br>
     <img src="Results/baseline-slice-sample.png" width="350" title="Sample baseline slice">
      <img src="Results/textblock-slice-sample.png" width="350" title="Sample textblock slice"><br>
-  3. Defining metrics:<br>
+  3. Metrics:<br>
      &emsp;3.1. Dice loss: Dice loss helps in determining the overlap between predicted and the actual mask. <br>
      &emsp;3.2. Recall <br>
      &emsp;3.2. Precision <br>
@@ -60,11 +60,7 @@ Segmenting text blocks from newspaper images using deep learning techinques
   </p>
   <li> <h4> Visualizing Attention maps: </h4> </li>
   <p>
-  1.Generates attention maps for the attention block at some level in the U-Net. <br>
-     &emsp;input: model, image, layer_no <br>
-     &emsp;output: attention map of the attebtion block at the corresponding layer.<br>
-
-  2.Produces attention maps for every attention block in the U-Net <br>
+  1.Produces attention maps for every attention block in the U-Net <br>
      &emsp; input: model, image <br>
     &emsp;  output: plot of attention maps for the U-Net <br>
     </p>
