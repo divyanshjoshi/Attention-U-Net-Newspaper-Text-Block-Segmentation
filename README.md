@@ -30,9 +30,9 @@
   ```
   pip install -r requirements.txt
   ```
-3.Run the Multi-Task_Attention_U-Net_Slices.ipynb file
+3.Run the main.ipynb file
 
-4.You're all set!
+4.Done!
   
  ## Results
   Results after training the model 
